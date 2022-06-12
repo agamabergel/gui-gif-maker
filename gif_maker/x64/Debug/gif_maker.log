@@ -1,0 +1,22 @@
+﻿  prog.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\test0\source\repos\gif_maker\gif_maker\linkedList.h(11,1): warning C4005: 'TRUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(75): message : see previous definition of 'TRUE'
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(94,44): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(175,38): warning C4133: '=': incompatible types - from 'char [13]' to 'LPCWSTR'
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(188,23): warning C4133: 'function': incompatible types - from 'char [13]' to 'LPCWSTR'
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(213,22): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(226,1): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(314,21): warning C4033: 'WndProc' must return a value
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(319,21): warning C4033: 'WndProc' must return a value
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(326,78): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(326,74): warning C4024: 'MessageBoxW': different types for formal and actual parameter 4
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(346,17): warning C4033: 'WndProc' must return a value
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(362,17): warning C4033: 'WndProc' must return a value
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(379,17): warning C4033: 'WndProc' must return a value
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(445,1): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(503,37): warning C4133: '=': incompatible types - from 'const char *' to 'LPCWSTR'
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(516,22): warning C4133: 'function': incompatible types - from 'const char [14]' to 'LPCWSTR'
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(539,22): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(425): warning C4715: 'WndProc': not all control paths return a value
+  gif_maker.vcxproj -> C:\Users\test0\source\repos\gif_maker\x64\Debug\gif_maker.exe

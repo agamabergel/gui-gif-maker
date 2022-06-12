@@ -1,0 +1,31 @@
+﻿  linkedList.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\test0\source\repos\gif_maker\gif_maker\linkedList.c(221,9): warning C4013: 'printf' undefined; assuming extern returning int
+  prog.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\test0\source\repos\gif_maker\gif_maker\linkedList.h(11,1): warning C4005: 'TRUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(75): message : see previous definition of 'TRUE'
+C:\Users\test0\source\repos\gif_maker\gif_maker\prog.c(12,96): warning C4028: formal parameter 3 different from declaration
+  saveGIF.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\test0\source\repos\gif_maker\gif_maker\saveGIF.c(27,1): warning C4133: 'function': incompatible types - from 'HBRUSH' to 'HMENU'
+C:\Users\test0\source\repos\gif_maker\gif_maker\saveGIF.c(48,46): warning C4133: 'function': incompatible types - from 'char *' to 'LPWSTR'
+C:\Users\test0\source\repos\gif_maker\gif_maker\saveGIF.c(49,46): warning C4133: 'function': incompatible types - from 'char *' to 'const wchar_t *'
+C:\Users\test0\source\repos\gif_maker\gif_maker\saveGIF.c(8,1): warning C4047: 'initializing': 'wchar_t' differs in levels of indirection from 'void *'
+C:\Users\test0\source\repos\gif_maker\gif_maker\saveGIF.c(44,1): warning C4133: 'initializing': incompatible types - from 'wchar_t *' to 'char *'
+C:\Users\test0\source\repos\gif_maker\gif_maker\saveGIF.c(81,38): warning C4133: '=': incompatible types - from 'char [13]' to 'LPCWSTR'
+C:\Users\test0\source\repos\gif_maker\gif_maker\saveGIF.c(94,23): warning C4133: 'function': incompatible types - from 'char [13]' to 'LPCWSTR'
+C:\Users\test0\source\repos\gif_maker\gif_maker\saveGIF.c(119,22): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\test0\source\repos\gif_maker\gif_maker\saveGIF.c(193,28): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\test0\source\repos\gif_maker\gif_maker\saveGIF.c(268,86): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+C:\Users\test0\source\repos\gif_maker\gif_maker\saveGIF.c(268,82): warning C4024: 'MessageBoxW': different types for formal and actual parameter 4
+  view.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+view.obj : error LNK2001: unresolved external symbol cvWaitKey
+view.obj : error LNK2001: unresolved external symbol cvReleaseImage
+view.obj : error LNK2001: unresolved external symbol cvLoadImage
+view.obj : error LNK2001: unresolved external symbol cvDestroyWindow
+view.obj : error LNK2001: unresolved external symbol cvShowImage
+view.obj : error LNK2001: unresolved external symbol cvCreateImage
+view.obj : error LNK2001: unresolved external symbol cvNamedWindow
+C:\Users\test0\source\repos\gif_maker\x64\Release\gif_maker.exe : fatal error LNK1120: 7 unresolved externals
