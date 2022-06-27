@@ -2,10 +2,6 @@
 * Class: MAGSHIMIM C2			 *
 * AGAM ABERGEL     			     *
 **********************************/
-/*********************************
-* Class: MAGSHIMIM C2			 *
-* AGAM ABERGEL     			     *
-**********************************/
 
 #pragma comment(lib,"user32.lib") 
 #define CV_IGNORE_DEBUG_BUILD_GUARD
